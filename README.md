@@ -2,7 +2,7 @@
 
 **Systems thinker, builder, and AI explorer.**
 
-I design scalable, real-world applications and am currently focused on AI-powered systems—LLMs, RAG, vector databases, and intelligent workflows.
+I design scalable, real-world applications and am currently focused on AI-powered systems like LLMs, RAG, vector databases, and intelligent workflows.
 
 ---
 
