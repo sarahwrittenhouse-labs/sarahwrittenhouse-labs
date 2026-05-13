@@ -36,7 +36,7 @@ I share thoughts on technology, systems, and AI as I build and learn.
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 👉 [LinkedIn](www.linkedin.com/in/sarah-manago-1b200b8)
 
 ---
